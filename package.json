@@ -9,6 +9,7 @@
     "start": "npm run dev"
   },
   "dependencies": {
+    "three": "^0.148.0",
     "umi": "^4.0.50"
   },
   "devDependencies": {
